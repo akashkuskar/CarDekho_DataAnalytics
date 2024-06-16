@@ -1,0 +1,7 @@
+Name Designation Team Experience
+Shubham Data_Scientist Tech 5
+Riti Data_Engineer Tech 7
+Shanky Program_Manager Tech 2
+Shreya Graphic_Designer Design 2
+Aadi Backend_Developer Tech 11
+Sim Data_Engineer Design 4
